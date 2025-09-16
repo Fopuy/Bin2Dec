@@ -1,4 +1,4 @@
-**Binary to Decimal Converter**
+#**Binary to Decimal Converter**#
 
 [Live Page](https://fopuy.github.io/Bin2Dec/)
 
