@@ -1,12 +1,17 @@
-# React + Vite
+Binary to Decimal Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Live Page](https://fopuy.github.io/Bin2Dec/)
 
-Currently, two official plugins are available:
+A simple binary to decimal converter built with React + Vite.
+Type a binary number into the input field, and it instantly converts it to its decimal value in real time.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Features**
 
-## Expanding the ESLint configuration
+Real-time conversion of binary to decimal
+Minimal and responsive UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Future Improvements**
+
+Add Decimal → Binary conversion
+Input validation for non-binary numbers
+Dark mode toggle
