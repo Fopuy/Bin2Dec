@@ -7,11 +7,11 @@ Type a binary number into the input field, and it instantly converts it to its d
 
 **Features**
 
-Real-time conversion of binary to decimal
-Minimal and responsive UI
+Real-time conversion of binary to decimal  
+Minimal and responsive UI  
 
 **Future Improvements**
 
-Add Decimal → Binary conversion
-Input validation for non-binary numbers
-Dark mode toggle
+Add Decimal → Binary conversion  
+Input validation for non-binary numbers  
+Dark mode toggle  
